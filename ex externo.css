@@ -1,0 +1,31 @@
+#diva{
+    background-color: gold;
+    height: 500px;
+    width: 500px;
+}
+
+#divb{
+    background-color: blue;
+    height: 250px;
+    width: 250px;
+}
+
+#p1{
+    color: white;
+    background-color: violet;
+    font-size: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+#divc{
+    background-color: pink;
+    height: 50vh;
+    width: 250px;
+}
+
+#divd{
+    background-color: red;
+    height: 25vh;
+    width: 75vw;
+}
